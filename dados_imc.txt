@@ -1,0 +1,20 @@
+Idade: 15 anos
+Altura: 1.62 m
+Peso: 70 kg
+IMC: 26.67
+------------------------------
+Idade: 15 anos
+Altura: 1.62 m
+Peso: 70 kg
+IMC: 26.67
+------------------------------
+Idade: 15 anos
+Altura: 1.62 m
+Peso: 70 kg
+IMC: 26.67
+------------------------------
+Idade: 15 anos
+Altura: 1.62 m
+Peso: 70 kg
+IMC: 26.67
+------------------------------
